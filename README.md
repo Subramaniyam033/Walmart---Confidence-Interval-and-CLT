@@ -1,9 +1,9 @@
 # Walmart---Confidence-Interval-and-CLT
- Conducted statistical analysis on Walmart customer purchase behaviour using Confidence intervals and the
+ * Conducted statistical analysis on Walmart customer purchase behaviour using Confidence intervals and the
  Central Limit Theorem (CLT) to explore spending patterns.
- • Compared average spending across gender, marital status and age groups, identifying significant differences
+ * Compared average spending across gender, marital status and age groups, identifying significant differences
  and potential customer segments.
- • Analysed outliers and variation in spending and build actionable insights for targeted marketing strategies
+ * Analysed outliers and variation in spending and build actionable insights for targeted marketing strategies
  and improved business decision-making
 
  # Findings:
